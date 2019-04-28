@@ -1,4 +1,4 @@
-# Global Azure Bootcamp 2018 - Verona
+# Global Azure Bootcamp 2019 - Verona
 ### [CloudGen Verona](http://cloudgen.it)
 
 [![N|Solid](http://gab2019verona.azurewebsites.net/wp-content/uploads/2019/03/GAB-1.jpeg)](logo)
