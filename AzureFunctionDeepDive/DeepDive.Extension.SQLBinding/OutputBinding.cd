@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Comment CommentText="Define attribute for Azure Functions">
+    <Position X="8.325" Y="1.842" Height="0.291" Width="2.494" />
+  </Comment>
+  <Comment CommentText="Interface for define Entity restriction">
+    <Position X="8.383" Y="3.267" Height="0.316" Width="2.485" />
+  </Comment>
+  <Comment CommentText="Take attribute parameters and insert entities into DB">
+    <Position X="5.458" Y="3.817" Height="0.608" Width="2.027" />
+  </Comment>
+  <Comment CommentText="Create Method for easy registration">
+    <Position X="1.175" Y="1.75" Height="0.55" Width="2.027" />
+  </Comment>
+  <Comment CommentText="Register attribute, validation, and business logics">
+    <Position X="1.5" Y="3.125" Height="0.291" Width="2.985" />
+  </Comment>
+  <Class Name="DeepDive.Extension.SQLBinding.SqlOutputAsyncCollector&lt;T&gt;" BaseTypeListCollapsed="true">
+    <Position X="5.25" Y="1.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAACAAAAAAAAEAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Output\SqlOutputAsyncCollector.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DeepDive.Extension.SQLBinding.SqlOutputBindingAttribute">
+    <Position X="8.25" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Output\SqlOutputAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepDive.Extension.SQLBinding.SqlOutputConfiguration" BaseTypeListCollapsed="true">
+    <Position X="1" Y="3.5" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Output\SqlOutputConfigurationProvider.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DeepDive.Extension.SQLBinding.Extension">
+    <Position X="1" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Startup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="DeepDive.Extension.SQLBinding.IWriterEntity">
+    <Position X="8.25" Y="3.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Output\IWriterEntity.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

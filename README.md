@@ -8,35 +8,51 @@ In questo repository trovate il materiale dell'ultimo Global Azure Bootcamp (27/
 | Sessione | Materiale |
 | ------ | ------ |
 | Presentazione CloudGen Verona e Codici Sconto | [Materiale][LinkPresentazioneIniziale] |
-| Sviluppare un portale per gestire la tua soluzione IoT Hub | [Materiale][LinkIoT] |
-| Azure SQL Database |  |
-| Introduzione a Azure Data Lake |  |
-| Introduzione al Machine Learning con Azure | [Materiale][LinkML] |
-| Skype for Business vs Teams | [Materiale][LinkTeams] |
-| Linux@Azure, l'altra metà del cielo | [Materiale][LinkLinuxAltraMetaDelCielo] |
-| SQL Server & GDPR |  |
-| Introduzione a Visual Studio App Center | [Materiale][LinkAppCenter] |
-| Monitor and diagnose your app with Application insights | [Materiale][LinkAppInsight] |
-| Microsoft Azure Stack per ambienti di sviluppo |  |
-| ActorModel integrato con Akka.Net e Azure Service Fabric | [Materiale][LinkFabric] |
-| Scalare le proprie applicazioni con Azure Functions | [Materiale][LinkFunctions] |
-| I Containers in Azure, light-VM o un vero cambio di paradigma? | [Materiale][LinkContainers] |
-| Azure Active Directory: hybrid identity & security | [Materiale][LinkAAD]  |
-| Microsoft Flow VS Azure Logic Apps & Azure Functions | [Materiale][LinkFlow] |
-| Azure Cosmos DB - Un moderno database nel cloud | [Materiale][LinkCosmosDB] |
-| Continuous Deployment to Azure App Service with Visual Studio Team Services | [Materiale][LinkVSTS] |
+| Azure PaaS Databases | [Materiale][LinkIoT] |
+| Reactive programming: gestiamo una flotta di veicoli in movimento | [Materiale][LinkReactiveProgramming] |
+| Automatic GitHub Issue Moderation using Azure Functions and Microsoft LUIS AI | [Materiale][LinkGithub] |
+| Come realizzare architetture di rete ibride, sicure e funzionali in Azure | [Materiale][LinkHybrid] |
+| Azure Machine Learning Service | [Materiale][LinkAzureMLService] |
+| Introducing Azure Sphere - A New Solution for Creating Highly-Secured, Connected MCU Device. | [Materiale][LinkAzureSphere] |
+| How to search...better | [Materiale][LinkSearch] |
+| Track, Inventory and patch VMs in Azure (Windows or Linux) without SCCM and with zero infrastructure | [Materiale][LinkNoSCCM] |
+| Predictive Modeling with Azure Machine Learning Studio | [Materiale][LinkAzureMLStudio] |
+| AKS: Kubernetes e Azure alla massima potenza | [Materiale][LinkAKS] |
+| Azure static website e Angular unit test su Azure DevOps | [Materiale][LinkAngular] |
+| Funziona?! Allora non toccarlo, ovvero l'analisi d'infrastruttura in esercizio. | [Materiale][LinkNonToccarlo] |
+| Gestisci il tuo ambiente cloud con Azure Cloud Shell | [Materiale][LinkShell] |
+| Presentazione Azure DevSpaces per Sviluppatori | [Materiale][LinkDevSpaces]  |
+| Discovering the world of Data Science Virtual Machines | [Materiale][LinkVMDataScience] |
+| Come ottimizzare l'investimento con Azure | [Materiale][LinkCostOptimization] |
+| SQL Server performance tuning su Azure IaaS | [Materiale][LinkSqlPerformance] |
+| Distribute your containers to devices with Azure IoT Edge | [Materiale][LinkIoTEdge] |
+| Sviluppare applicazioni moderne in Azure con servizi PaaS | [Materiale][LinkPaas] |
+| Produttività con Microsoft Teams | [Materiale][LinkTeams] |
+| Realtime Xamarin with Azure SignalR | [Materiale][LinkSignalR] |
+| Azure Digital Twins | [Materiale][LinkTwins] |
+| Integrate containers and Kubernetes into your Azure DevOps build and release model | [Materiale][LinkKubernetesDevOps] |
+| Deep dive on Azure Functions | [Materiale][LinkAzureFunctionDeepDive] |
 
-   [LinkAppCenter]: <https://github.com/CloudGenVR/GAB2018/tree/master/AppCenter>
-   [LinkAppInsight]: <https://github.com/CloudGenVR/GAB2018/tree/master/AppInsight>
-   [LinkIoT]: <https://github.com/CloudGenVR/GAB2018/tree/master/Azure%20IoTHub>
-   [LinkFunctions]: <https://github.com/CloudGenVR/GAB2018/tree/master/AzureFunctions>
-   [LinkFabric]: <https://github.com/CloudGenVR/GAB2018/tree/master/AzureServiceFabric_AkkaNet>
-   [LinkContainers]: <https://github.com/CloudGenVR/GAB2018/tree/master/Containers>
-   [LinkVSTS]: <https://github.com/CloudGenVR/GAB2018/tree/master/Continuous%20Deployment%20to%20Azure%20App%20Service%20with%20Visual%20Studio%20Team%20Services>
-   [LinkCosmosDB]: <https://github.com/CloudGenVR/GAB2018/tree/master/CosmosDB>
-   [LinkLinuxAltraMetaDelCielo]: <https://github.com/CloudGenVR/GAB2018/tree/master/LinuxAltraMetaDelCielo>
-   [LinkML]: <https://github.com/CloudGenVR/GAB2018/tree/master/Machine%20Learning>
-   [LinkPresentazioneIniziale]: <https://github.com/CloudGenVR/GAB2018/tree/master/Presentazione_Sconti>
-   [LinkFlow]: <https://github.com/CloudGenVR/GAB2018/tree/master/Flow>
-   [LinkAAD]: <https://github.com/CloudGenVR/GAB2018/tree/master/AAD>
-   [LinkTeams]: <https://github.com/CloudGenVR/GAB2018/tree/master/Teams>
+   [LinkAzurePaaSDatabases]: <https://github.com/cloudgenverona/GAB2019/tree/master/AzurePaaSDatabases>
+   [LinkReactiveProgramming]: <https://github.com/cloudgenverona/GAB2019/tree/master/LinkReactiveProgramming>
+   [LinkGithub]: <https://github.com/cloudgenverona/GAB2019/tree/master/Github>
+   [LinkHybrid]: <https://github.com/cloudgenverona/GAB2019/tree/master/Hybrid>
+   [LinkAzureMLService]: <https://github.com/cloudgenverona/GAB2019/tree/master/AzureMLService>
+   [LinkAzureSphere]: <https://github.com/cloudgenverona/GAB2019/tree/master/AzureSphere>
+   [LinkSearch]: <https://github.com/cloudgenverona/GAB2019/tree/master/Search>
+   [LinkNoSCCM]: <https://github.com/cloudgenverona/GAB2019/tree/master/NoSCCM>
+   [LinkAzureMLStudio]: <https://github.com/cloudgenverona/GAB2019/tree/master/AzureMLStudio>
+   [LinkAKS]: <https://github.com/cloudgenverona/GAB2019/tree/master/AKS>
+   [LinkAngular]: <https://github.com/cloudgenverona/GAB2019/tree/master/Angular>
+   [LinkNonToccarlo]: <https://github.com/cloudgenverona/GAB2019/tree/master/NonToccarlo>
+   [LinkShell]: <https://github.com/cloudgenverona/GAB2019/tree/master/Shell>
+   [LinkDevSpaces]: <https://github.com/cloudgenverona/GAB2019/tree/master/DevSpaces>
+   [LinkCostOptimization]: <https://github.com/cloudgenverona/GAB2019/tree/master/CostOptimization>
+   [LinkSqlPerformance]: <https://github.com/cloudgenverona/GAB2019/tree/master/SqlPerformance>
+   [LinkIoTEdge]: <https://github.com/cloudgenverona/GAB2019/tree/master/IoTEdge>
+   [LinkPaas]: <https://github.com/cloudgenverona/GAB2019/tree/master/Paas>
+   [LinkTeams]: <https://github.com/cloudgenverona/GAB2019/tree/master/Teams>
+   [LinkSignalR]: <https://github.com/cloudgenverona/GAB2019/tree/master/SignalR>
+   [LinkTwins]: <https://github.com/cloudgenverona/GAB2019/tree/master/Twins>
+   [LinkKubernetesDevOps]: <https://github.com/cloudgenverona/GAB2019/tree/master/KubernetesDevOps>
+   [LinkAzureFunctionDeepDive]: <https://github.com/cloudgenverona/GAB2019/tree/master/LinkAzureFunctionDeepDive>

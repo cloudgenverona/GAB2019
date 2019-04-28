@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Comment CommentText="Define attribute for Azure Functions">
+    <Position X="7.7" Y="2.425" Height="0.291" Width="2.494" />
+  </Comment>
+  <Comment CommentText="Check parameter property of attribute">
+    <Position X="7.75" Y="4.5" Height="0.316" Width="2.485" />
+  </Comment>
+  <Comment CommentText="Take attribute parameters and return Entity from DB">
+    <Position X="4.8" Y="2.933" Height="0.608" Width="2.027" />
+  </Comment>
+  <Comment CommentText="Create Method for easy registration">
+    <Position X="2.008" Y="2.025" Height="0.55" Width="2.027" />
+  </Comment>
+  <Comment CommentText="Register attribute, validation, and business logics">
+    <Position X="2" Y="4.5" Height="0.55" Width="2.027" />
+  </Comment>
+  <Class Name="DeepDive.Extension.SQLBinding.SqlInputBindingAttribute">
+    <Position X="7.75" Y="0.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAKAAAAAAAAA=</HashCode>
+      <FileName>Input\SqlInputBindingAttribute.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepDive.Extension.SQLBinding.SqlInputBuilder&lt;T&gt;" BaseTypeListCollapsed="true">
+    <Position X="4.75" Y="1.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Input\SqlInputBuilder.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DeepDive.Extension.SQLBinding.SqlInputConfiguration" BaseTypeListCollapsed="true">
+    <Position X="2" Y="3.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Input\SQLInputConfigurationProvider.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.192" Collapsed="true" />
+  </Class>
+  <Class Name="DeepDive.Extension.SQLBinding.Extension">
+    <Position X="2" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Startup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DeepDive.Extension.SQLBinding.SqlResolutionPolicy">
+    <Position X="7.75" Y="3.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Input\SqlResolutionPolicy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.396" />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

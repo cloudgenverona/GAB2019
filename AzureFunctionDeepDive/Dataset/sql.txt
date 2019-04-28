@@ -1,0 +1,6 @@
+gabadmin
+G4b20I9DBFun1Ions
+
+
+
+Server=tcp:gab2019dbserver.database.windows.net,1433;Initial Catalog=GAB2019;Persist Security Info=False;User ID=gabadmin;Password=G4b20I9DBFun1Ions;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
