@@ -48,6 +48,7 @@ In questo repository trovate il materiale dell'ultimo Global Azure Bootcamp (27/
    [LinkNonToccarlo]: <https://github.com/cloudgenverona/GAB2019/tree/master/NonToccarlo>
    [LinkShell]: <https://github.com/cloudgenverona/GAB2019/tree/master/Shell>
    [LinkDevSpaces]: <https://github.com/cloudgenverona/GAB2019/tree/master/DevSpaces>
+   [LinkVMDataScience]: <https://github.com/cloudgenverona/GAB2019/tree/master/VMDataScience>
    [LinkCostOptimization]: <https://github.com/cloudgenverona/GAB2019/tree/master/CostOptimization>
    [LinkSqlPerformance]: <https://github.com/cloudgenverona/GAB2019/tree/master/SqlPerformance>
    [LinkIoTEdge]: <https://github.com/cloudgenverona/GAB2019/tree/master/IoTEdge>
