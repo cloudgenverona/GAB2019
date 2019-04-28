@@ -8,7 +8,7 @@ In questo repository trovate il materiale dell'ultimo Global Azure Bootcamp (27/
 | Sessione | Materiale |
 | ------ | ------ |
 | Presentazione CloudGen Verona e Codici Sconto | [Materiale][LinkPresentazioneIniziale] |
-| Azure PaaS Databases | [Materiale][LinkIoT] |
+| Azure PaaS Databases | [Materiale][LinkAzurePaaSDatabases] |
 | Reactive programming: gestiamo una flotta di veicoli in movimento | [Materiale][LinkReactiveProgramming] |
 | Automatic GitHub Issue Moderation using Azure Functions and Microsoft LUIS AI | [Materiale][LinkGithub] |
 | Come realizzare architetture di rete ibride, sicure e funzionali in Azure | [Materiale][LinkHybrid] |
@@ -33,6 +33,7 @@ In questo repository trovate il materiale dell'ultimo Global Azure Bootcamp (27/
 | Integrate containers and Kubernetes into your Azure DevOps build and release model | [Materiale][LinkKubernetesDevOps] |
 | Deep dive on Azure Functions | [Materiale][LinkAzureFunctionDeepDive] |
 
+   [LinkPresentazioneIniziale]: <https://github.com/cloudgenverona/GAB2019/tree/master/PresentazioneIniziale>
    [LinkAzurePaaSDatabases]: <https://github.com/cloudgenverona/GAB2019/tree/master/AzurePaaSDatabases>
    [LinkReactiveProgramming]: <https://github.com/cloudgenverona/GAB2019/tree/master/LinkReactiveProgramming>
    [LinkGithub]: <https://github.com/cloudgenverona/GAB2019/tree/master/Github>
