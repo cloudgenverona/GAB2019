@@ -35,7 +35,7 @@ In questo repository trovate il materiale dell'ultimo Global Azure Bootcamp (27/
 
    [LinkPresentazioneIniziale]: <https://github.com/cloudgenverona/GAB2019/tree/master/PresentazioneIniziale>
    [LinkAzurePaaSDatabases]: <https://github.com/cloudgenverona/GAB2019/tree/master/AzurePaaSDatabases>
-   [LinkReactiveProgramming]: <https://github.com/cloudgenverona/GAB2019/tree/master/LinkReactiveProgramming>
+   [LinkReactiveProgramming]: <https://github.com/cloudgenverona/GAB2019/tree/master/ReactiveProgramming>
    [LinkGithub]: <https://github.com/cloudgenverona/GAB2019/tree/master/Github>
    [LinkHybrid]: <https://github.com/cloudgenverona/GAB2019/tree/master/Hybrid>
    [LinkAzureMLService]: <https://github.com/cloudgenverona/GAB2019/tree/master/AzureMLService>
@@ -57,4 +57,4 @@ In questo repository trovate il materiale dell'ultimo Global Azure Bootcamp (27/
    [LinkSignalR]: <https://github.com/cloudgenverona/GAB2019/tree/master/SignalR>
    [LinkTwins]: <https://github.com/cloudgenverona/GAB2019/tree/master/Twins>
    [LinkKubernetesDevOps]: <https://github.com/cloudgenverona/GAB2019/tree/master/KubernetesDevOps>
-   [LinkAzureFunctionDeepDive]: <https://github.com/cloudgenverona/GAB2019/tree/master/LinkAzureFunctionDeepDive>
+   [LinkAzureFunctionDeepDive]: <https://github.com/cloudgenverona/GAB2019/tree/master/AzureFunctionDeepDive>
