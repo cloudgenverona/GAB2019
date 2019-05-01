@@ -8,27 +8,27 @@ In questo repository trovate il materiale dell'ultimo Global Azure Bootcamp (27/
 | Sessione | Materiale |
 | ------ | ------ |
 | Presentazione CloudGen Verona e Codici Sconto | [Materiale][LinkPresentazioneIniziale] |
-| Azure PaaS Databases | [Materiale][LinkAzurePaaSDatabases] |
+| Azure PaaS Databases |  |
 | Reactive programming: gestiamo una flotta di veicoli in movimento | [Materiale][LinkReactiveProgramming] |
-| Automatic GitHub Issue Moderation using Azure Functions and Microsoft LUIS AI | [Materiale][LinkGithub] |
+| Automatic GitHub Issue Moderation using Azure Functions and Microsoft LUIS AI |  |
 | Come realizzare architetture di rete ibride, sicure e funzionali in Azure | [Materiale][LinkHybrid] |
 | Azure Machine Learning Service | [Materiale][LinkAzureMLService] |
-| Introducing Azure Sphere - A New Solution for Creating Highly-Secured, Connected MCU Device. | [Materiale][LinkAzureSphere] |
+| Introducing Azure Sphere - A New Solution for Creating Highly-Secured, Connected MCU Device. |  |
 | How to search...better | [Materiale][LinkSearch] |
 | Track, Inventory and patch VMs in Azure (Windows or Linux) without SCCM and with zero infrastructure | [Materiale][LinkNoSCCM] |
-| Predictive Modeling with Azure Machine Learning Studio | [Materiale][LinkAzureMLStudio] |
+| Predictive Modeling with Azure Machine Learning Studio |  |
 | AKS: Kubernetes e Azure alla massima potenza | [Materiale][LinkAKS] |
-| Azure static website e Angular unit test su Azure DevOps | [Materiale][LinkAngular] |
+| Azure static website e Angular unit test su Azure DevOps |  |
 | Funziona?! Allora non toccarlo, ovvero l'analisi d'infrastruttura in esercizio. | [Materiale][LinkNonToccarlo] |
-| Gestisci il tuo ambiente cloud con Azure Cloud Shell | [Materiale][LinkShell] |
+| Gestisci il tuo ambiente cloud con Azure Cloud Shell |  |
 | Presentazione Azure DevSpaces per Sviluppatori | [Materiale][LinkDevSpaces]  |
 | Discovering the world of Data Science Virtual Machines | [Materiale][LinkVMDataScience] |
 | Come ottimizzare l'investimento con Azure | [Materiale][LinkCostOptimization] |
-| SQL Server performance tuning su Azure IaaS | [Materiale][LinkSqlPerformance] |
-| Distribute your containers to devices with Azure IoT Edge | [Materiale][LinkIoTEdge] |
+| SQL Server performance tuning su Azure IaaS |  |
+| Distribute your containers to devices with Azure IoT Edge |  |
 | Sviluppare applicazioni moderne in Azure con servizi PaaS | [Materiale][LinkPaas] |
 | Produttività con Microsoft Teams | [Materiale][LinkTeams] |
-| Realtime Xamarin with Azure SignalR | [Materiale][LinkSignalR] |
+| Realtime Xamarin with Azure SignalR |  |
 | Azure Digital Twins | [Materiale][LinkTwins] |
 | Integrate containers and Kubernetes into your Azure DevOps build and release model | [Materiale][LinkKubernetesDevOps] |
 | Deep dive on Azure Functions | [Materiale][LinkAzureFunctionDeepDive] |
