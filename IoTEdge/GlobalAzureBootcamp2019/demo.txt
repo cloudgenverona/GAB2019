@@ -1,0 +1,80 @@
+device-manual
+$env:IOT_DEVICE_CONNSTR="HostName=gab19.azure-devices.net;DeviceId=device-manual;SharedAccessKey=z51NgqOorp0bc+DB0hfwZrfVg9ST9D9iJgjmLKaA5nU="
+
+device-1
+$env:IOT_DEVICE_CONNSTR="HostName=gab19.azure-devices.net;DeviceId=device-1;SharedAccessKey=IVdyTmJIoE5d9bIuS6EmuipLSe1LJwNXb5yOPhJ21k4="
+
+docker login gab19.azurecr.io
+gab19
+nxAWt87CeaIjyXQdZtjm42r/KlNQ6RSW
+
+**** TEST DEPLOY ***
+
+microsoft/dotnet-samples:aspnetapp
+
+{
+  "ExposedPorts": {
+    "80/tcp": {}
+  },
+  "HostConfig": {
+    "PortBindings": {
+      "80/tcp": [
+        {
+          "HostPort": "8000"
+        }
+      ]
+    }
+  }
+}
+
+image: mcr.microsoft.com/mssql/server:latest
+
+{
+  "Env": [
+    "ACCEPT_EULA=Y",
+    "SA_PASSWORD=Strong!Passw0rd"
+  ],
+  "HostConfig": {
+    "Mounts": [
+      {
+        "Target": "/var/opt/mssql",
+        "Source": "sqlVolume",
+        "Type": "volume"
+      }
+    ],
+    "PortBindings": {
+      "1433/tcp": [
+        {
+          "HostPort": "1401"
+        }
+      ]
+    }
+  }
+}
+
+tags.environment = 'prod'
+
+*** DEBUG SINGOLO MODULO ***
+curl --header "Content-Type: application/json" --request POST --data '{"inputName": "input1","data":"hello world"}' http://localhost:53000/api/v1/messages
+
+
+*** STORAGE BLOB ***
+DefaultEndpointsProtocol=http;BlobEndpoint=http://localhost:11002/photostorage;AccountName=photostorage;AccountKey=rPB6X4iBnQsQHg+lP+H0t9Y13WypkbISU0tCEx6J9LgKBH9P1+hMEmn1shdW50XAMYcQQ8E9WyaT7znFpAwnoA==
+
+
+*** TWIN ***
+"configuration": {
+        "ttlSettings": {
+          "ttlOn": true,
+          "timeToLiveInMinutes": 60
+        },
+      "tieringSettings": {
+        "tieringOn": true,
+        "backlogPolicy": "OldestFirst",
+        "remoteStorageConnectionString": "DefaultEndpointsProtocol=https;AccountName=gab19stg;AccountKey=6I/Ca4ewic20fHHn7UUPw+VzQwujk85I9YTDRnODctEAPMb3ttTKvSH5eC2gsqwhMwMCsRZQO47420mXTjjxzA==;EndpointSuffix=core.windows.net",
+        "tieredContainers": {
+          "photos": {
+            "target": "photos"
+          }
+        }
+      }

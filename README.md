@@ -13,7 +13,7 @@ In questo repository trovate il materiale dell'ultimo Global Azure Bootcamp (27/
 | Automatic GitHub Issue Moderation using Azure Functions and Microsoft LUIS AI |  |
 | Come realizzare architetture di rete ibride, sicure e funzionali in Azure | [Materiale][LinkHybrid] |
 | Azure Machine Learning Service | [Materiale][LinkAzureMLService] |
-| Introducing Azure Sphere - A New Solution for Creating Highly-Secured, Connected MCU Device. |  |
+| Introducing Azure Sphere - A New Solution for Creating Highly-Secured, Connected MCU Device. | [Materiale][LinkAzureSphere] |
 | How to search...better | [Materiale][LinkSearch] |
 | Track, Inventory and patch VMs in Azure (Windows or Linux) without SCCM and with zero infrastructure | [Materiale][LinkNoSCCM] |
 | Predictive Modeling with Azure Machine Learning Studio |  |
@@ -25,10 +25,10 @@ In questo repository trovate il materiale dell'ultimo Global Azure Bootcamp (27/
 | Discovering the world of Data Science Virtual Machines | [Materiale][LinkVMDataScience] |
 | Come ottimizzare l'investimento con Azure | [Materiale][LinkCostOptimization] |
 | SQL Server performance tuning su Azure IaaS |  |
-| Distribute your containers to devices with Azure IoT Edge |  |
+| Distribute your containers to devices with Azure IoT Edge | [Materiale][LinkIoTEdge] |
 | Sviluppare applicazioni moderne in Azure con servizi PaaS | [Materiale][LinkPaas] |
 | Produttività con Microsoft Teams | [Materiale][LinkTeams] |
-| Realtime Xamarin with Azure SignalR |  |
+| Realtime Xamarin with Azure SignalR | [Materiale][LinkSignalR] |
 | Azure Digital Twins | [Materiale][LinkTwins] |
 | Integrate containers and Kubernetes into your Azure DevOps build and release model | [Materiale][LinkKubernetesDevOps] |
 | Deep dive on Azure Functions | [Materiale][LinkAzureFunctionDeepDive] |
